@@ -92,4 +92,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
