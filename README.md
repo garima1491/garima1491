@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Garima Tiwari</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | GLA University</h3>
-
 <p align="center">
  B.Tech CSE(AIML) Student || Exploring AI,ML & Real-World Projects || Aspiring Tech Innovator
-</p><br>
+</p>
 <p align="center">
   Learning Python ,DSA & Web Development  
 </p><br>
