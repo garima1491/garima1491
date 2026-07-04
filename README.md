@@ -70,10 +70,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=garima1491&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=garima1491&theme=tokyonight)
-----
-
-
-## 💻 Most Used Languages
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=garima1491&layout=compact&theme=tokyonight" />
