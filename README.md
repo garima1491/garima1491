@@ -67,25 +67,15 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garima1491&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garima1491&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=garima1491&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima1491&layout=compact&theme=tokyonight&hide_border=true" />
-</p>## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=garima1491&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garima1491&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garima1491&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima1491&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?
+username=garima1491&layout=compact&theme=tokyonight)
 ---
+
+
 ## 💻 Most Used Languages
 
 <p align="center">
