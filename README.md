@@ -84,9 +84,8 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima1491&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima1491&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 🏆 GitHub Trophies
 
