@@ -3,8 +3,11 @@
 <h3 align="center">B.Tech CSE (AI & ML) Student | GLA University</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Python+Learner;DSA+Explorer;Web+Development+Learner;Building+Real+World+Projects" />
-</p>
+ B.Tech CSE(AIML) Student || Exploring AI,ML & Real-World Projects || Aspiring Tech Innovator
+</p><br>
+<p align="center">
+  Learning Python ,DSA & Web Development  
+</p><br>
 
 ---
 
