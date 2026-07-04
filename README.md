@@ -65,6 +65,12 @@
 </p>
 
 ---
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima1491&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
 
 # 📊 GitHub Stats
 
@@ -90,7 +96,6 @@
 
 ## ✨ Quote
 
-> *"Learning never stops. Every project brings me one step closer to becoming a better developer."*
 
 ---
 
