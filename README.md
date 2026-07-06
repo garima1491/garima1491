@@ -66,9 +66,7 @@
 
 ---
 ## 📊 GitHub Stats
-
-<img 
-src="https://github-readdme-stts.vercel.app/api?username=garima1491&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+https://github-readme-stats.vercel.app/api?username=garima1491
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=garima1491&theme=tokyonight)
 
